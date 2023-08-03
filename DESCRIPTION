@@ -1,7 +1,7 @@
 Package: MMSeekR.data
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.0
+Version: 1.0.0
 Author: c( person("Yueyuan","Zheng", role = c("aut","cre"), email = "zhengyueyuan2@gmail.com"),
 		       person("Benjamin", "Berman", role = "aut")
 		       )
